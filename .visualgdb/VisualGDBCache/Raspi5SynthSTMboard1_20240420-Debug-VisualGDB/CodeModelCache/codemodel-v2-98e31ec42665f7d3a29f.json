@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-DEBUG-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "DEBUG",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Raspi5SynthSTMboard1_20240420",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BSP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BSP-DEBUG-2bb18634e1ab2cd2d110.json",
+					"name" : "BSP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Raspi5SynthSTMboard1_20240420::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Raspi5SynthSTMboard1_20240420-DEBUG-e8f9325f6165f95c6941.json",
+					"name" : "Raspi5SynthSTMboard1_20240420",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Raspi5SynthSTMboard1_20240420-bin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Raspi5SynthSTMboard1_20240420-bin-DEBUG-f3ef8bff7e3b535d8cb3.json",
+					"name" : "Raspi5SynthSTMboard1_20240420-bin",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "I:/Workspace/STM32/Projects/VS/Raspi5SynthSTMboard1_20240420/build/VisualGDB/Debug",
+		"source" : "I:/Workspace/STM32/Projects/VS/Raspi5SynthSTMboard1_20240420"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

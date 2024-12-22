@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "Raspi5SynthSTMboard1_20240420", "Raspi5SynthSTMboard1_20240420.vgdbcmake", "{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{5E0DE7E2-703D-4710-ABC5-B1ABB6499FE2}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D55D90-F9EE-4D46-AD97-25D937F6AE5A}
+	EndGlobalSection
+EndGlobal

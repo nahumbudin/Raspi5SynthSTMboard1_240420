@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.15)
+
+project(Raspi5SynthSTMboard1_20240420 LANGUAGES C CXX ASM)
+
+find_bsp(
+	ID com.sysprogs.project_importers.stm32.cubemx
+	SOURCE_PROJECT Raspi5SynthSTMboard1_20240420.ioc)
+
+add_bsp_based_executable(
+	NAME Raspi5SynthSTMboard1_20240420
+	GENERATE_BIN
+	GENERATE_MAP
+	SOURCES ${BSP_ROOT}/midi.h ${BSP_ROOT}/midi.c)
+

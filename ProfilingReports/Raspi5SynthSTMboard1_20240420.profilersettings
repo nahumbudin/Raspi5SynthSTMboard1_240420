@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SysprogsProfilerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Embedded>
+    <Sampling>
+      <SamplingRate>0</SamplingRate>
+      <StartImmediately>false</StartImmediately>
+    </Sampling>
+    <Mode>Sampling</Mode>
+  </Embedded>
+  <SessionFileDirectory>I:\Workspace\STM32\Projects\VS\Raspi5SynthSTMboard1_20240420\ProfilingReports\Raspi5SynthSTMboard1_20240420</SessionFileDirectory>
+  <SessionName>6/15/2024 2:01:00 AM</SessionName>
+</SysprogsProfilerSettings>
