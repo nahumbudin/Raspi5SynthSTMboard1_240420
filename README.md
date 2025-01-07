@@ -4,6 +4,8 @@
 
 ![Raspi5SynthControlBoardBack](https://github.com/user-attachments/assets/a7e19e38-2792-44eb-bae0-ed477f2bf8cc)
 
+# IO Boards
+
 ![Raspi5SynthControlPannel](https://github.com/user-attachments/assets/6488aa74-ab05-44c2-8ba8-e31d1c645f45)
 
 ![Raspi5SynthPushButtons](https://github.com/user-attachments/assets/6f25c979-bb02-44b6-b140-89d7cfdadaf2)
