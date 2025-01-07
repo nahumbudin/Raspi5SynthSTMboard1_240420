@@ -14,3 +14,6 @@
 
 ![Raspi5SynthSliders](https://github.com/user-attachments/assets/954d50ba-c1d1-412e-9ea5-65cd635413a3)
 
+# The Full Monty
+
+![Raspi5Synth_TopAssembly v148](https://github.com/user-attachments/assets/abedfcbd-8d27-46de-815d-a59c284f859d)
