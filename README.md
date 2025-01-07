@@ -17,3 +17,5 @@
 # The Full Monty
 
 ![Raspi5Synth_TopAssembly v148](https://github.com/user-attachments/assets/abedfcbd-8d27-46de-815d-a59c284f859d)
+
+![Raspi5Synth_TopAssemblyBackPannel v148](https://github.com/user-attachments/assets/08f20f15-98c1-4258-b79a-bb5ce54e4fe8)
